@@ -15,13 +15,7 @@ aspects, as they even have smartphones and access to the internet.
 
 Please write an application to help our team browse and see the details of those
 inhabitants. Keep in mind that we want to improve and extend this application in the
-future.
-
-## Requirements:
-- Do not spend more than 4 hours. It’s not a problem if the implementation isn’t
-complete.
-- React with Redux Saga for state management and TypeScript
-- Commit your progress to the following Github repository: https://github.com/DaanNedap/technical-test
+future. Don't forget to commit your changes to a new branch in this repository.
 
 ## Specifications:
 - Retrieve data from the URL provided.
@@ -36,6 +30,7 @@ technologies are always supported.
 - At least one automated test.
 
 ## Bonus:
+- React with Redux Saga for state management with TypeScript.
 - Our heroes want to rate the skill level of each profession of each inhabitant. This will
 make repeat visits to the town much faster, leaving more time for Orc slaying.
 - Filter inhabitants in other ways, like by whom they have befriended.
